@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [organizational](https://github.com/orgs/sunshinetechnology/dashboard) projects  
 - 🌱 I’m currently learning [Go](https://go.dev) with the help of [Go: The Complete Developers Guide](https://www.udemy.com/course/go-the-complete-developers-guide/)  
 - 👯 I’m looking to collaborate on Python and Go projects
-- 📫 How to reach me: Send me some [mail](mailto:alex_macniven@icloud.com) or follow me [@alex_macniven](https://twitter.com/alex_macniven)
+- 📫 How to reach me: 
+  - Send me some [mail](mailto:alex_macniven@icloud.com) 
+  - Follow me [@alex_macniven](https://twitter.com/alex_macniven)
+  - Connect with me on [LinkedIn](https://www.linkedin.com/in/alexmacniven/)
